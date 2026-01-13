@@ -4,7 +4,7 @@
   <img src="https://developers.google.com/static/profile/badges/nvidia-developer/badge.svg" alt="NVIDIA Developer" height="48" />
   <img src="https://developers.google.com/static/profile/badges/community/innovators/cloud/2021_member/badge.svg" alt="Google Cloud Innovators Member" height="48" />
   <img src="https://developers.google.com/static/profile/badges/profile/created-profile/created_profile.svg" alt="Google Developer Profile" height="48" />
-  <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F10489106%2F8235ef48b7e37d36d6e081d112f303de%2FBadge-62.svg?generation=1758039755687969&alt=media" alt="Kaggle Expert" height="48" />
+  <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F10489106%2F8235ef48b7e37d36d6e081d112f303de%2FBadge-62.svg?generation=1758039755687969&alt=media" alt="Kaggle User" height="48" />
 </p>
 
  Member, Google Cloud Innovators Program (registered)
