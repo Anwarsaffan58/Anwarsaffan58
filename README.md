@@ -33,10 +33,6 @@ programming skills, and preparing for higher studies in computer science.
 My coursework includes university-level mathematics and core computer
 science subjects that emphasize logical reasoning and problem solving.
 
-Develop the academic foundations required for future research-oriented
-work during higher studies.
-
-
 
 ---
 
@@ -106,6 +102,9 @@ demonstrate secure key exchange and message protection principles.
 • Prepare for higher studies in Germany in Computer Science
 • Strengthen mathematical and algorithmic foundations
 • Build academically aligned projects that demonstrate learning progress
+• Develop the academic foundations required for future research-oriented
+  work during higher studies.
+
 
 ---
 
