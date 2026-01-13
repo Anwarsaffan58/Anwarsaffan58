@@ -14,29 +14,27 @@ Cloud · AI/ML · Time Series · Quantum · Cybersecurity · Full‑stack & Hard
 
 ## 👨‍💻 About Me
 
-- II year B.Tech CSE student exploring systems end‑to‑end from hardware to cloud.  
-- Member of Google Cloud Innovators and the Google Developer Program.  
-- Member of the NVIDIA Developer Program, learning GPU‑accelerated AI.  
-- Hackathon‑heavy: security, quantum communication, anomaly detection, automation.  
-- Interested in quantum‑safe cryptography, secure cloud architectures and scalable AI services.  
+Computer Science Engineering undergraduate with a strong interest in
+mathematics, algorithms, and the theoretical foundations of computing.
+Currently building academic programming skills in Python and exploring
+introductory machine learning concepts through coursework and small projects.
 
 ---
 
 ## 🧠 Tech & Domains
-
-- **Cloud & DevOps**: Google Cloud (Compute, Storage, serverless, networking, IAM), basic CI/CD.  
-- **AI / ML**: Python stack, experimentation on GPUs, NVIDIA CUDA/TensorRT (learning), time‑series forecasting & anomaly detection (ARIMA, classical ML).  
+ 
+- **AI / ML**: Python stack, time‑series forecasting & anomaly detection (ARIMA, classical ML).  
 - **Security & Cryptography**: AES, RSA, ECC, quantum‑safe ideas, basic pentesting.  
 - **Quantum Computing**: Qiskit, IBM Quantum, QRNG, quantum communication protocols.  
-- **Full‑stack**: Flask / FastAPI / Node.js, REST APIs, HTML/CSS/JS, simple React UIs.  
-- **Hardware / Systems**: Raspberry Pi, Linux, hardware‑software interfacing, automation.  
+- **Full‑stack**:REST APIs, HTML/CSS/JS, simple React UIs.  
+- **Hardware / Systems**: Raspberry Pi, Linux,  
 
 ---
 
 ## 🛠️ Languages & Tools
 
-`Python` · `C` · `C++` · `Java` · `JavaScript` · `HTML` · `CSS`  
-`Google Cloud` · `Linux` · `Git` · `GitHub` · `Docker (learning)` · `MySQL` · `SQLite`  
+`Python` · `C` · `Java` · `JavaScript` · `HTML` · `CSS`  
+ `Linux` · `Git` · `GitHub`  
 `NumPy` · `Pandas` · `scikit-learn` · `Qiskit` · `IBM Quantum` · `Kali Linux`  
 
 ---
@@ -58,8 +56,7 @@ Cloud · AI/ML · Time Series · Quantum · Cybersecurity · Full‑stack & Hard
 
 > Repos are being actively updated as hackathon and college work is cleaned and open‑sourced.
 
-- **ARIMA Anomaly Detection (CPU / time series)** – ARIMA(11,0,11)–based anomaly detector for CPU utilization using Python, PyFlux, and time‑series error thresholds.  
-- **Cloud + NVIDIA experiments** – small AI workloads running on NVIDIA GPUs, with a roadmap to full deployment on Google Cloud (GCE / Cloud Run).  
+- **ARIMA Anomaly Detection (CPU / time series)** – ARIMA(11,0,11)–based anomaly detector for CPU utilization using Python, PyFlux, and time‑series error thresholds.    
 - **Quantum / Security prototypes** – quantum‑inspired crypto demos and secure‑messaging experiments that mix classical and quantum‑safe concepts.  
 - **Hackathon builds** – POCs around anomaly detection, secure communication and automation using Flask/Node backends and SQL databases.  
 
