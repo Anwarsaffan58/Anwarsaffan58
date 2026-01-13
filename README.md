@@ -100,8 +100,11 @@ demonstrate secure key exchange and message protection principles.
 ## 🎯 Current Goals
 
 • Prepare for higher studies in Germany in Computer Science
+
 • Strengthen mathematical and algorithmic foundations
+
 • Build academically aligned projects that demonstrate learning progress
+
 • Develop the academic foundations required for future research-oriented
   work during higher studies.
 
