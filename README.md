@@ -1,4 +1,4 @@
-# Hi, I'm Saffan Anwar 👋  
+# Hi, I'm Anwar Mohammed Saffan  👋  
 
 <p align="left">
   <img src="https://developers.google.com/static/profile/badges/nvidia-developer/badge.svg" alt="NVIDIA Developer" height="48" />
@@ -7,27 +7,49 @@
   <img src="https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F10489106%2F8235ef48b7e37d36d6e081d112f303de%2FBadge-62.svg?generation=1758039755687969&alt=media" alt="Kaggle Expert" height="48" />
 </p>
 
-**Google Cloud Innovator · NVIDIA Developer · Kaggle Expert · B.Tech CSE (India)**  
-Cloud · AI/ML · Time Series · Quantum · Cybersecurity · Full‑stack & Hardware Integration
+ Member, Google Cloud Innovators Program (registered)
+Member, NVIDIA Developer Program (learning resources)
+Kaggle – learning & practice
 
 ---
 
 ## 👨‍💻 About Me
 
-Computer Science Engineering undergraduate with a strong interest in
-mathematics, algorithms, and the theoretical foundations of computing.
-Currently building academic programming skills in Python and exploring
-introductory machine learning concepts through coursework and small projects.
+I am a B.Tech Computer Science Engineering undergraduate with a strong
+academic foundation in mathematics and science.
+
+My primary interests lie in theoretical computer science, algorithms,
+and understanding how mathematical concepts support modern computing systems.
+As part of my studies, I am developing programming skills in Python and
+learning basic data structures and problem-solving techniques.
+
+I have explored introductory machine learning concepts through small
+academic and hackathon-based projects, which helped me understand how
+theory is translated into practice.
+
+I am currently focused on strengthening my fundamentals, improving my
+programming skills, and preparing for higher studies in computer science.
+
+My coursework includes university-level mathematics and core computer
+science subjects that emphasize logical reasoning and problem solving.
+
+Develop the academic foundations required for future research-oriented
+work during higher studies.
+
+
 
 ---
 
 ## 🧠 Tech & Domains
  
-- **AI / ML**: Python stack, time‑series forecasting & anomaly detection (ARIMA, classical ML).  
-- **Security & Cryptography**: AES, RSA, ECC, quantum‑safe ideas, basic pentesting.  
-- **Quantum Computing**: Qiskit, IBM Quantum, QRNG, quantum communication protocols.  
-- **Full‑stack**:REST APIs, HTML/CSS/JS, simple React UIs.  
-- **Hardware / Systems**: Raspberry Pi, Linux,  
+-Foundational Knowledge & Learning Areas:
+
+• Programming: Python (academic use, fundamentals)
+• Mathematics: Calculus, Linear Algebra, Differential Equations
+• Computer Science: Introductory Data Structures and Algorithms
+• Machine Learning: Basic concepts, small academic projects
+• Tools: Git, GitHub, Linux (basic)
+
 
 ---
 
@@ -35,7 +57,10 @@ introductory machine learning concepts through coursework and small projects.
 
 `Python` · `C` · `Java` · `JavaScript` · `HTML` · `CSS`  
  `Linux` · `Git` · `GitHub`  
-`NumPy` · `Pandas` · `scikit-learn` · `Qiskit` · `IBM Quantum` · `Kali Linux`  
+`NumPy` · `Pandas` · `scikit-learn` 
+
+*Additional exposure through coursework and experimentation:*  
+`Qiskit` · `IBM Quantum` · `Kali Linux`
 
 ---
 
@@ -54,21 +79,33 @@ introductory machine learning concepts through coursework and small projects.
 
 ## 🧩 Projects & Experiments
 
-> Repos are being actively updated as hackathon and college work is cleaned and open‑sourced.
+Repositories document coursework, hackathon experiments, and
+> early-stage academic explorations.
 
-- **ARIMA Anomaly Detection (CPU / time series)** – ARIMA(11,0,11)–based anomaly detector for CPU utilization using Python, PyFlux, and time‑series error thresholds.    
-- **Quantum / Security prototypes** – quantum‑inspired crypto demos and secure‑messaging experiments that mix classical and quantum‑safe concepts.  
-- **Hackathon builds** – POCs around anomaly detection, secure communication and automation using Flask/Node backends and SQL databases.  
+- **Secure Communication (Academic PoC)**  
+  Exploratory academic proof-of-concept project focused on understanding
+theoretical ideas in cryptography and secure communication. The project
+draws conceptual inspiration from post-quantum and quantum-communication
+literature, and implements a simplified classical software model to
+demonstrate secure key exchange and message protection principles.
+- **ARIMA-Based Anomaly Detection (Time Series)**  
+  Academic project using ARIMA models to study CPU utilization patterns
+  and anomaly detection using Python.
 
-👉 Browse everything: **[My GitHub Repositories](https://github.com/Anwarsaffan58?tab=repositories)**  
+- **Machine Learning Mini-Projects**  
+- Logistic Regression–based diabetes prediction
+- Introductory text classification using TensorFlow
+  
+👉 Browse everything:  
+**[My GitHub Repositories](https://github.com/Anwarsaffan58?tab=repositories)**
 
 ---
 
 ## 🎯 Current Goals
 
-- Prepare for higher studies in **Germany** in Computer Science or related fields, with a focus on cloud, AI and security.  
-- Build a portfolio aligned with German research & industry: scalable cloud apps, secure systems, quantum‑inspired solutions.  
-- Contribute more to open source and publish technical content (blogs, talks, demos) around Google Cloud + NVIDIA, time‑series ML, and security.  
+• Prepare for higher studies in Germany in Computer Science
+• Strengthen mathematical and algorithmic foundations
+• Build academically aligned projects that demonstrate learning progress
 
 ---
 
